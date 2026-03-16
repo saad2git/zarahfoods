@@ -125,6 +125,12 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <div className="border-t border-amber-100 mt-8 pt-6 text-center">
+  <p className="text-sm text-gray-400">
+    Designed & Developed by{" "}
+    <span className="text-amber-500 font-medium">Muhammad Saad</span>
+  </p>
+</div>
     </footer>
   );
 };
